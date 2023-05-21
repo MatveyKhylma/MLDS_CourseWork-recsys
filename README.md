@@ -7,4 +7,3 @@
 
 
 Ссылка на используемые датасеты:
-https://drive.google.com/drive/folders/1s6La9wC427HIK6whRj1n1Fc66jsxhdBa?usp=sharing
