@@ -6,4 +6,4 @@
 Научный руководитель: Ананьева Марина
 
 
-Ссылка на используемые датасеты:
+Ссылка на используемые датасеты: https://drive.google.com/drive/folders/1e4Yrw0k9NNHt9uUojN16AWGzJ2qQfW8T
